@@ -1,0 +1,4 @@
+- Jeremy Weiss
+- <img src="https://user-images.githubusercontent.com/18493608/149565271-e8f98558-c642-4ce3-ac4c-d54d481162fe.png" width="100">
+- Class of 2022
+- Web Application
